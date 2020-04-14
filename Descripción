@@ -1,0 +1,9 @@
+#Clasificación de textos con métodos de aprendizaje automático
+
+En el presente documento buscaremos la clasificación de artículos en Latex que provienen de la base de datos localizada en el siguiente url
+http://www.cs.cornell.edu/projects/kddcup/datasets.html
+
+Para lograr nuestro cometido implementaremos el método de asignación latente de Dirichlet conocido más comunmente por sus siglas en inglés LDA
+Este es un modelo generátivo dentro del aprendizaje automático que nos permitira de cierta forma encontrar categorias dentro de los documentos 
+y clasificarlos según las palabras contenidas y su frecuencia. 
+
